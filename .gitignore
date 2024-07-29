@@ -39,8 +39,26 @@ out/
 # Compiled class file
 *.class
 
+# Lombok generated files
+.lombok/
+
 # Log file
 *.log
+
+# Windows
+*.bat
+*.cmd
+
+# macOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Git
+*.orig
+*.rej
+*.swo
 
 # BlueJ files
 *.ctxt
